@@ -1,8 +1,4 @@
-# Students Online Internship Timesheet System v1.0 exists SQL injection vulnerability
-
 BUG_Author：wwlcz
-
-Website source address: https://www.sourcecodester.com/php/14578/students-online-internship-timesheet-system-using-phpmysqli-source-code.html
 
 Vulnerability File: /internship_timesheet/rendered_report.php
 
